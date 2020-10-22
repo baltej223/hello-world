@@ -1,11 +1,5 @@
 <!--make a form with action "http://www.google.com/search"-->
 <html>
-<head>
-<style>
-
-</style>
-<title>search</title>
-</head>
 <body id="mam">
 <h1>search google</h1>
 <div style="background-color:#f1f1f1;">
